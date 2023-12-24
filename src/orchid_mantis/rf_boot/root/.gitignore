@@ -1,0 +1,21 @@
+.shadow-cljs/
+node_modules/
+target
+cljs-runtime
+manifest.json
+.nrepl-port
+pom.xml
+.cpcache
+resources/public/js/
+.calva/
+.lsp/
+.clj-kondo/
+
+# Yarn
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
