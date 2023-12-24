@@ -9,7 +9,7 @@ Requirements:
 ## Usage
 Replace `your/app-name` and run:
 ```sh
-clj -Sdeps '{:deps {io.github.orchid-mantis/rf-boot {:git/sha "c2b5156b571d9b6d5a4573ed9d96093ca647a566"}}}' -Tnew create  :template orchid-mantis/rf-boot :name your/app-name
+clj -Sdeps '{:deps {io.github.orchid-mantis/rf-boot {:git/tag "0.1" :git/sha "5ecd89f"}}}' -Tnew create  :template orchid-mantis/rf-boot :name your/app-name
 ```
 
 ## Install
